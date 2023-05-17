@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Abhishek Verma
-    tagline: Space Science Student and Data Science Enthusiast
+    name: Aman Raj
+    tagline: Space Science Student and Love Rocket Science
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: abhishekpythons@gmail.com
-    phone: 6307803954
-    timezone: India/Kolkata
+    email: musicflowsinsideme@gmail.com
+    phone: 6203087872
+    timezone: India/Jehanabad
     citizenship: Indian
     website: abhishekverma.me #do not add http://
     linkedin: abhishekpythons
